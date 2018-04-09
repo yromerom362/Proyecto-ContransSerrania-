@@ -1,15 +1,19 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/*Trabajo en Grupo Guia 4
+//Guía 4. Java e interfaces gráficas "Cotranserrania" 
+//*Autores
+//HARBEY JAIR GUERRERO BULLA
+//CAMILO ANDRES SERRANO QUINTERO 
+//YEISSON ROMERO MANCIPE 
+//Universidad EAN
+//Construccion de Software
+*/
 package Cootranserrania;
 
 import javax.swing.JOptionPane;
 
 /**
  *
- * @author TG&S
+ * @author YROMERO
  */
 public class AgregarCarros extends javax.swing.JFrame {
 
